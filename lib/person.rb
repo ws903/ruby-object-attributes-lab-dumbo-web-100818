@@ -4,7 +4,7 @@ class Person
   end
   
   def job
-    puts @job
+    @job
   end
   
 end
